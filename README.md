@@ -20,5 +20,7 @@
 
 [Estrutura Condicional](./doc/structure_conditional/index.md)
 
+[Exercícios](./exercises/)
+
 
 
